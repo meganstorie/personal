@@ -6,7 +6,7 @@ subtitle: Technical Writer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_3571.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>432.813.6765</p>
